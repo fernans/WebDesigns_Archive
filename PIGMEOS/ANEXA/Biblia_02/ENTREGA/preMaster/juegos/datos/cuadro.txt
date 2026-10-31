@@ -1,0 +1,138 @@
+&preguntas=22&
+&opciones=3&
+&acertarfacil=2&
+&acertarnormal=4&
+&acertardificil=6&
+
+&pregunta_1=¿Eres Cristiano?&
+&opcion_1_1=Sí, soy cristiano por la Gracia de Dios.&
+&opcion_1_2=Sí, porque soy muy bueno con mi hermano.&
+&opcion_1_3=Sí y casi siempre hago caso a mis padres.&
+&correcta_1=1&
+
+&pregunta_2=¿Qué es la Gracia?&
+&opcion_2_1=Tener gracia para contar chistes.&
+&opcion_2_2=La Gracia es la participación en la vida de Dios, es la ayuda que Dios nos da para responder a su llamada.&
+&opcion_2_3=Es la forma que tenemos de contar a nuestro prójimo las cosas que nos han pasado.&
+&correcta_2=2&
+
+&pregunta_3=¿Quién es Cristiano?&
+&opcion_3_1=El que se apunta a la Iglesia.&
+&opcion_3_2=Es Cristiano quien cree en Jesús y ha recibido el Bautismo.&
+&opcion_3_3=El que va todos los días a Misa.&
+&correcta_3=2&
+
+&pregunta_4=¿Quién creó al hombre?&
+&opcion_4_1=Dios.&
+&opcion_4_2=Los científicos.&
+&opcion_4_3=Moisés&
+&correcta_4=1&
+
+&pregunta_5=¿Para qué creó Dios al hombre y todo cuanto existe?&
+&opcion_5_1=Para entretenerse.&
+&opcion_5_2=Para su gloria.&
+&opcion_5_3=Para que le sirviéramos.&
+&correcta_5=2&
+
+&pregunta_6=¿Hay más de un Dios?&
+&opcion_6_1=Hay tres.&
+&opcion_6_2=No se sabe.&
+&opcion_6_3=Hay un sólo Dios.&
+&correcta_6=3&
+
+&pregunta_7=¿Dónde está Dios?&
+&opcion_7_1=Sólo en el Cielo.&
+&opcion_7_2=Dios está en todas partes.&
+&opcion_7_3=En la casa.&
+&correcta_7=2&
+
+&pregunta_8=¿Sabe Dios todas las cosas?&
+&opcion_8_1=Casi todas.&
+&opcion_8_2=Sabe todo lo que le contamos.&
+&opcion_8_3=Sí. Nada puede ocultarse a la vista de Dios.&
+&correcta_8=3&
+
+&pregunta_9=¿Quiénes fueron nuestros primeros padres?&
+&opcion_9_1=María y José.&
+&opcion_9_2=Adán y Eva.&
+&opcion_9_3=Marta y Tomás.&
+&correcta_9=2&
+
+&pregunta_10=¿Cómo se llama aquella naturaleza pecaminosa que heredamos de Adán?&
+&opcion_10_1=Pecado original.&
+&opcion_10_2=Gran pecado.&
+&opcion_10_3=Desobediencia.&
+&correcta_10=1&
+
+&pregunta_11=¿Qué nos enseñan los primeros tres mandamientos?&
+&opcion_11_1=A querer a nuestros hermanos.&
+&opcion_11_2=Que tenemos que ser buenos.&
+&opcion_11_3=Cómo amar a Dios.&
+&correcta_11=3&
+
+&pregunta_12=¿Quién es tu prójimo?&
+&opcion_12_1=Todo ser humano.&
+&opcion_12_2=Los vecinos de la escalera.&
+&opcion_12_3=Los que viven cerca de ti.&
+&correcta_12=1&
+
+&pregunta_13=¿Cuál es el primer mandamiento?&
+&opcion_13_1=Amarás a Dios sobre todas las cosas.&
+&opcion_13_2=Santificarás el día del Señor.&
+&opcion_13_3=No matarás.&
+&correcta_13=1&
+
+&pregunta_14=¿Cuál es el segundo mandamiento?&
+&opcion_14_1=Amarás a Dios sobre todas las cosas.&
+&opcion_14_2=No tomarás el nombre de Dios en vano.&
+&opcion_14_3=No matarás.&
+&correcta_14=2&
+
+&pregunta_15=¿Cuál es el tercer mandamiento?&
+&opcion_15_1=Amarás a Dios sobre todas las cosas.&
+&opcion_15_2=Santificarás el día del Señor.&
+&opcion_15_3=No matarás.&
+&correcta_15=2&
+
+&pregunta_16=¿Cuál es el cuarto mandamiento?&
+&opcion_16_1=Amarás a Dios sobre todas las cosas.&
+&opcion_16_2=Santificarás el día del Señor.&
+&opcion_16_3=Honrarás a tu padre y a tu madre.&
+&correcta_16=3&
+
+&pregunta_17=¿Cuál es el quinto mandamiento?&
+&opcion_17_1=Amarás a Dios sobre todas las cosas.&
+&opcion_17_2=Honrarás a tu padre y a tu madre.&
+&opcion_17_3=No matarás.&
+&correcta_17=3&
+
+&pregunta_18=¿Cuál es el sexto mandamiento?&
+&opcion_18_1=Amarás a Dios sobre todas las cosas.&
+&opcion_18_2=Santificarás el día del Señor.&
+&opcion_18_3=No cometerás actos impuros.&
+&correcta_18=3&
+
+&pregunta_19=¿Cuál es el séptimo mandamiento?&
+&opcion_19_1=No robarás.&
+&opcion_19_2=Santificarás el día del Señor.&
+&opcion_19_3=No matarás.&
+&correcta_19=1&
+
+&pregunta_20=¿Cuál es el octavo mandamiento?&
+&opcion_20_1=No robarás.&
+&opcion_20_2=Santificarás el día del Señor.&
+&opcion_20_3=No levantarás falsos testimonios ni mentirás.&
+&correcta_20=3&
+
+&pregunta_21=¿Cuál es el noveno mandamiento?&
+&opcion_21_1=No consentir pensamientos ni deseos impuros.&
+&opcion_21_2=Santificarás el día del Señor.&
+&opcion_21_3=No matarás.&
+&correcta_21=1&
+
+&pregunta_22=¿Cuál es el décimo mandamiento?&
+&opcion_22_1=No robarás.&
+&opcion_22_2=Santificarás el día del Señor.&
+&opcion_22_3=No codiciar los bienes ajenos.&
+&correcta_22=3&
+

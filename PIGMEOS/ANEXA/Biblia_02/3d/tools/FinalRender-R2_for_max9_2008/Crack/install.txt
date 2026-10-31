@@ -1,0 +1,51 @@
+1. Install finaRender, finalToon and IP-Clamp license server
+   and set it up.
+
+2. Launch IP-Clamp.exe and go to the "Settings" tab,
+   choose "localhost" as Primary Network Adapter, press apply.
+    
+3. Go to the "Request" tab and enter this License Code:
+
+   XFORC-EFAMI-LY200-8502I
+
+   Fill in all the fields (User Name, State, e-mail, etc).
+
+   Select the network adapter you want to lock license to
+   "Manage Licenses locked to ID..."
+
+   Press "Add" then "Request" and choose a name (e.g: lic_request.txt)
+   for the request file, press "Save".
+
+4. Fire up our keygen (XF-DieCebas.exe).
+    
+   In the upper field, click the browse button and select the
+   request file you just created.
+    
+   Still in the keygen, click on the browse button in the lower field
+   and select where to store the generated license file.
+   BEWARE! NOT IN THE IP-CLAMP FOLDER! ANYWHERE YOU WANT BUT NOT THERE!
+
+   Finally, press "Generate". If no error has been reported you are
+   now having license for your computer for *ALL* Cebas products that
+   use IP-Clamp.
+
+5. Back in IP-Clamp.exe go to "Licenses" tab and press "Import Licence".
+
+   Point out the ipclamp.lic license files generated above...
+   if everything went OK it will list all the licenses in the "License" tab.
+
+6. Enjoy
+
+
+TROUBLESHOOTING:
+~~~~~~~~~~~~~~~~
+
+If you have a network adapter but it's not listed in the IP-Clamp
+interface you need to make sure your local IP address is a valid one.
+Check the FAQ in the IC-Clamp help to see what's a valid local IP address.
+
+Make sure you've read the IP-Clamp documentation at least once and
+you checked that everything is properly configured!
+
+If nothing work, as a last resort you may pick "Softlock" as adapter.
+The licenses will then be locked to your primary Hard Drive Disk serial number.

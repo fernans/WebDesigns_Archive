@@ -1,0 +1,28 @@
+Important Information
+=======================
+This package is made out of multiple installers,one or more plugins and IPCLAMP, and one windows HELP file.
+
+The first thing you should do is READ THE 
+IP-Clamp.CHM manual and view the IPCLAMP video: www.cebas.com/elearning/movies/ipclamp.wmv
+
+You must first install and update IPCLAMP (if you don't already have it updated) and get your License authorized. Then you can install the software. IPCLAMP is a floating license system and is best installed on a license/file server. This way you will not need to worry about upgrading your workstation machines and having issues with your license. Please refer to the manual and video for more info.
+
+This new IP-CLAMP system must be used form now on! Update as soon as possible to this new system. All newer plugins form cebas will use this updated system form now on. Deinstall your old IPCLAMP and re-install this one into the same folder.
+
+Once IPCLAMP is setup it is recommended that you install your software.
+
+Make sure you use the x64 when you are on a x64 system!! It will INCLUDE the x32 bit installers as well!
+
+
+With each installer be SURE it is pointing to the correct directory for install. The installer can usually see the correct 3dsmax Directory but it is best to be certain.
+
+your Manual and Sample scenes are installed in "Shared Documents". You can easily find this folder in Windows explorer by clicking on the Shared Documents shortcut.
+
+
+Check out the main manual of your application
+and work through all of the tutorials.
+
+Thank you
+Your cebas team
+
+

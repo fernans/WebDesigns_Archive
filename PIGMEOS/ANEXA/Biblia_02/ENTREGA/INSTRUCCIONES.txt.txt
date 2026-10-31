@@ -1,0 +1,76 @@
+INSTRUCCIONES PARA GENERAR "ENTREGA" DE "LA AVENTURA DE LA BIBLIA 2"
+--------------------------------------------------------------------
+
+
+- Generar EXE "principal.exe" utilizando northcode:
+
+utilizar la plantilla "principal.spf" situada en DESARROLLO/flash
+al abrir, pulsar el boton "build"
+en esta misma carpeta (DESARROLLO/flash) se creará el EXE (principal.exe) con icono
+
+
+
+- Preparar PreMaster:
+
+copiar el "principal.exe"  [1 archivo *.EXE]
+(de DESARROLLO/flash  -> a ENTREGA/preMaster)
+
+copiar todos los videos *.FLV  [14 archivos *.FLV]
+(de DESARROLLO/flash/videos  ->  a ENTREGA/preMaster/videos)  *solo los FLV
+
+copiar toda la musica *.MP3  [6 archivos *.MP3]
+(de DESARROLLO/flash/musica  ->  a ENTREGA/preMaster/musica)
+
+copiar las peliculas *.SWF  [18 archivos *.SWF]
+(de DESARROLLO/flash/peliculas  ->  a ENTREGA/preMaster/peliculas)  *solo los SWF
+ 
+copiar los juegos *.SWF  [30 archivos *.SWF]
+(de DESARROLLO/flash/juegos  ->  a ENTREGA/preMaster/juegos)  *solo los SWF
+
+copiar los datos de los juegos  [4 archivos *.TXT] y la subcarpeta "diferencias" [20 archivos *.PNG]
+(de DESARROLLO/flash/juegos/datos  ->  a ENTREGA/preMaster/juegos/datos)
+(de DESARROLLO/flash/juegos/datos/diferencias  ->  a ENTREGA/preMaster/juegos/datos/diferencias)
+
+
+
+- Generar ZIP para enviar (opcional) "VALIDACION":
+comprimir toda la carpeta preMaster con sus subcarpetas
+
+para jugar, descomprimir y pulsar doble-click en "principal.exe"
+
+
+
+- Generar instalador "setup.exe" utilizando InnoInstaller:
+
+utilizar la plantilla "La Aventura de la Biblia 2.iss" situada en ENTREGA/InnoInstaller
+al abrir, pulsar el boton "compile" (menú: Build->Compile  Ctrl+F9)
+
+
+
+- Preparar CD de distribución:
+
+copiar "AUTORUN.INF" [1 archivo *.INF]
+(de ENTREGA/extr  ->  a ENTREGA/CD)
+
+copiar el "Terminos_y_condiciones.rtf" [1 archivo *.RTF]
+(de ENTREGA/extr  ->  a ENTREGA/CD)
+
+copiar el "setup.exe" [1 archivo *.EXE]
+(de ENTREGA/InnoInstaller/Output  ->  a ENTREGA/CD)
+
+
+
+- Generar ISO (imagen de disco) utilizando Nero para "DUPLICACION":
+
+utilizar la plantilla "nero_AventuraBiblia 2.nri" situada en ENTREGA
+al abrir, seleccionar "Image Recorder" como dispositivo de escritura
+guardar el archivo como "Biblia_2.iso" en ENTREGA
+
+
+
+- Grabar un CD (opcional) para disponer de "master" en soporte fisico:
+
+utilizar Nero (o cualquier otro software de grabación)
+para "quemar" una copia de la imagen "Biblia_2.iso"
+
+
