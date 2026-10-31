@@ -1,0 +1,37 @@
+﻿<content width="400" height="600" hcover="false" transparency="false" prepage="data/_portada.swf">
+	<page
+		src="data/_simplepagina.swf"
+		transparency="false"
+		preLoad="true"
+	/>
+	<page
+		src="data/_doblepagina.swf"
+		isSpread="true"
+		transparency="false"
+		preLoad="true"
+	/>
+	<page
+		src="data/_doblepagina.swf"
+		isSpread = "true"
+		transparency="false"
+		preLoad="true"		
+	/>	
+	<page
+		src="data/_simplepagina.swf"
+		transparency="false"
+		preLoad="true"		
+	/>
+	<page
+		src="data/pagina_video.swf"
+		isSpread="false"
+		transparency="false"
+		preLoad="true"		
+	/>
+	
+	<page
+		src="data/_simplepagina.swf"
+		transparency="false"
+		preLoad="true"
+	/>
+
+</content>
