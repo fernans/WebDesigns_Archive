@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="../boceto/style/style.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('../boceto/images/seccionOver.jpg','../boceto/images/sec_servOver.jpg')">
+<table width="760" height="420" border="0" align="center" cellpadding="0" cellspacing="0" background="../boceto/images/base.gif">
+  <tr> 
+    <td height="89" valign="top"><img src="../boceto/images/banner.jpg" width="703" height="89" border="0" usemap="#Map" /> 
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top"><table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="130" align="left" valign="middle"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="seccion">
+              <tr> 
+                <td><a href="../boceto/intro.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Servicios','','../boceto/images/sec_servOver.jpg',1)"><img src="../boceto/images/sec_serv.jpg" name="Servicios" width="130" height="53" border="0" id="Servicios" /></a></td>
+              </tr>
+              <tr> 
+                <td><a href="../boceto/intro.htm">SERVICIOS<br />
+                  <br />
+                  </a></td>
+              </tr>
+              <tr> 
+                <td><a href="../boceto/copa.htm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Copa','','../boceto/images/seccionOver.jpg',1)"><img src="../boceto/images/seccion.jpg" name="Copa" width="130" height="54" border="0" id="Copa" /></a></td>
+              </tr>
+              <tr> 
+                <td><a href="../boceto/copa.htm">COPA AMERICA VALENCIA 2007<br />
+                  <br />
+                  </a></td>
+              </tr>
+              <tr> 
+                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="130" height="53">
+                    <param name="movie" value="../boceto/images/banner.swf" />
+                    <param name="quality" value="high" />
+                    <param name="wmode" value="transparent">
+                    <embed src="../boceto/images/banner.swf" width="130" height="53" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed></object></td>
+              </tr>
+              <tr> 
+                <td><a href="../boceto/main.htm"><br />
+                  </a></td>
+              </tr>
+            </table></td>
+          <td width="1"><img src="../boceto/images/separador.gif" width="1" height="100%" /></td>
+          <td width="50" align="left" valign="bottom">&nbsp;</td>
+          <td width="550" align="left" valign="bottom"> <!-- TemplateBeginEditable name="contenido" -->
+            <div id="contenido"> 
+              <p><img src="../boceto/images/titulo_intro.jpg" width="518" height="35" /></p>
+              <p><span class="subtitulo">I have been working and living in Ireland 
+                for the past twenty years and am shortly returning to live in 
+                Spain.<br />
+                My professional career has been in sales, distribution and education.<br />
+                I can provide a complete office administration package to suit 
+                all types of businesses.</span><br />
+                <br />
+                <strong>Services Telephone answering <br />
+                Business services <br />
+                Phothocopyng <br />
+                Mail shots <br />
+                Faxing <br />
+                Email correspondence <br />
+                Translation of businness documents <br />
+                Interpreter service <br />
+                Conference administration <br />
+                Liaison with Spanish companies <br />
+                Local contact with Spanish suppliers <br />
+                Sourcing products </strong><br />
+                <br />
+                <br />
+                <span class="subtitulo">As you know a local presence can make 
+                all the difference in dealing with foreign companies and suppliers. 
+                I can perform tht essential role for you.<br />
+                Please contact me as soon as possible to discuss how I can assist 
+                you in your business with Spanish companies.</span></p>
+            </div>
+            <!-- TemplateEndEditable --></td>
+          <td width="29">&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr> 
+    <td height="10" valign="top" bgcolor="#333172"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td height="16"> 
+            <div id="pie">[Empresas] - [Direcciones] - [Contacto]</div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<map name="Map" id="Map">
+  <area shape="rect" coords="594,70,612,82" href="#?lang=1" />
+  <area shape="rect" coords="627,70,645,82" href="#?lang=2" />
+  <area shape="rect" coords="660,70,678,82" href="#?lang=3" />
+</map>
+</body>
+</html>

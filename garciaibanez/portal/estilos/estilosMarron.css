@@ -1,0 +1,85 @@
+/* Areas */
+	body {background:#FFF3E6; margin:0px; padding:0px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+	#globalContainer {	width:700px;	position:absolute;}
+	#cabecera {background-image:url(../images/cabecera.jpg); height:65px; width:700px;text-align:center;}
+	#navegacion {text-align:right;background-image:url(../images/navegacion.gif);width:700px;height:12px;color: #FFF3E6;}
+	#contenido   {position:absolute;left:130px;width:480px;color:#8C6239;padding-top:10px;}
+	#extra1	     {position:absolute;right:0px;width:80px;color: #000000;align:center;}
+	#extra2	     {position:absolute;left:100px;top:100px;width:80px;color: #000000;background:blue;}
+	#menu        {position:absolute;left: 0px;width:120px;background: #C49A6D;font-family: "Small Fonts";	font-size: 9px;}	
+	#tabs        {clear:both;margin-top:10px;height:20px;}
+	#paginacion{}
+	#pie{position:absolute; background-color: gray; color:white; left:0px;bottom:0px; width:700px; padding-left: 5%;  font-size: 9px;}
+	#copyright{}
+	#acceso {margin:5px;border:1px solid #c30;}
+	#logo {position:absolute;left:10px;top:0px;}
+	#ayuda {}
+	
+/* Estilos por defecto */
+    .bloque {text-align: justify;color:#8C6239;}	
+	h1 {font-weight: bold;font-size:100%;}
+	h2 {text-align: left;	font-size:120%;	font-weight: bold;}
+	h3 {text-align: left;	color:black;	clear:left;font-size:100%;}
+	.titulo {font-weight: bold;font-size:100%;}
+	.subtitulo {text-align: left; font-size:120%; font-weight: bold;color:#000;}
+	.opcion {	text-align: left;	color:black;}
+	em {	font-weight: bold;}
+	a {text-decoration:none;color:#FFF3E6;}
+	a:hover {text-decoration:underline;}
+	img {border:0px;}
+	form{border:1px red solid;}
+	form .campo{} /* si float:left   iran en horizontal, si no en vertical */
+	form .label{font-weight:bold;color:white;}  /* tipo letra y colores para el label */
+	form .campo .label {} /* si float:left    la etiqueta estará al lado, sino arriba */
+	form imput{}
+	form input.button{}
+	
+/* Generales */
+	#dummy {clear:both;}
+	.banner {padding-top:10px;padding-left:10px;}
+	.right {float:right;margin: 0px 0px 0px 0px}
+	.left {float:left;margin: 0px 0px 0px 0px}
+	.indent{padding-left:10px;}
+	.columnas1,.columnas2,.columnas3,.columnas4{clear:both;}
+	/*.columnas1,.columnas2,.columnas3,.columnas4 .bloque {padding-right:5px;padding-left:5px;float:left;}*/
+	.columnas1 .bloque{width:470px;padding-right:5px;padding-left:5px;padding-top:5px;float:left;}	
+	.columnas2 .bloque{width:230px;padding-right:5px;padding-left:5px;padding-top:5px;float:left;}
+	.columnas3 .bloque{width:150px;padding-right:5px;padding-left:5px;padding-top:5px;float:left;}	
+	.columnas4 .bloque{width:110px;padding-right:5px;padding-left:5px;padding-top:5px;float:left;}
+
+/* subestios de tabs*/
+	#tabs .opcion {float:left; background-image:url(../images/tab.gif); width:105px; color:red;text-align:center;vertical-align:bottom;font-size:12px;border-bottom:0px;}
+	#tabs .opcion:hover {float:left; background-image:url(../images/tabhover.gif); width:105px;}	
+/* Subestilos de cabecera */
+	#cabecera img {float:left;left: 0px;}
+	#cabecera {color:red;}
+	#cabecera .titulo {	color:#C30; font-size:36px;}
+/* Subestilos de navegacion */
+/* Subestilos de contenido */
+	#contenido a {border-bottom:0px dashed; color:#FC0}
+	#contenido .bloque {border:0px solid red;margin-bottom:10px;}
+	#contenido .titulo {color:white;background:#C49A6D url(../images/titulocontenido2.gif) no-repeat; padding-left:20px;	padding-right: 10px;	padding-bottom:2px;	font-weight: bold;	border-bottom-width: 1px;	border-bottom-style: solid;	border-bottom-color: #CC3300;	padding-top: 1px;margin-bottom:10px;}	
+	#contenido img{margin:5px;}	
+/* Subestilos de menu */
+	#menu .bloque {	text-align: left;}
+	#menu a {text-decoration:none; color:#000;}
+	#menu a:hover {text-decoration:none; color:#fff;}
+	#menu .titulo {color:#FFF3E6;	background:#8C6239;padding-left:15px;	padding-bottom:2px;	font-weight: bold;	border-bottom-width: 1px;	border-bottom-style: solid;	border-bottom-color: #CC3300;	padding-top: 1px;}
+	#menu .opcion {background-image:url(../images/opcion2.gif);background-repeat: no-repeat;padding-left: 15px;padding-bottom:2px;	background-position: left;	padding-top: 1px;}
+/* Subestilos de extra */
+/* Subestilos de paginacion */
+/* Subestilos de pie */
+/* Subestilos de copyright */
+/* Subestilos de acceso */
+	#acceso .titulo {color:#fc0; background:#c30; text-align:center;}
+	#acceso .form {padding:5px; text-align:center;}
+	#acceso .form label {color:#c30;}
+	#acceso .form input {width:80px;border: 1px solid #c30;background:#ffc;height: 15px;}
+	#acceso .form input .submit {background:#c30;color:#fc0;font-size:9px;margin-top: 5px;}
+
+
+
+
+	
+
+

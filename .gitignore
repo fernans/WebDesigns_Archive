@@ -1,0 +1,26 @@
+# ---- Excluidos por límite duro de GitHub (archivos > 100 MB) ----
+mahecar/mahecar_fotos.zip
+PIGMEOS/PAU_dossiers/Ayudas_Festivales.zip
+PIGMEOS/ANEXA/Biblia_01/modif_Biblia_I/original_Biblia_Master/Aventura_grafica_fla.zip
+PIGMEOS/ANEXA/pau/Dossiers_Pau/Dossier_castellano/Dossier El mundo de Pau.pdf
+PIGMEOS/ANEXA/pau/Dossiers_Pau/Dossier_castellano/dossier_MCU_ mundo de Pau_sin prod.pdf
+
+# Comunicación interna no relacionada con el desarrollo
+PIGMEOS/ANEXA/Biblia02_docs/
+PIGMEOS/ANEXA/docs/
+
+# Interacción con clientes (presupuestos, conversaciones, notas externas)
+DePalacioFilms/presupuestoNuevo-jul04-RECICLARtvcam.xls
+RADIO COLOR/BOCETOS/enviar/conversacion1.rtf
+PIGMEOS/ANEXA/eBook/prehistoria/desarrollo/presupuesto ebook poesia.txt
+magan agencies/produccion/copa-america.txt
+
+# Metadatos de Dreamweaver
+*.mno
+
+# Sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp

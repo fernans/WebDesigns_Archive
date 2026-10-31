@@ -1,0 +1,66 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #000000;
+	background-image: url(../images/fondo.gif);
+	background-repeat: repeat;
+	margin: 0px;
+}
+#pie {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+}
+#seccion {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+#contenido {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	overflow: hidden;
+	height: 300px;
+	width: 550px;
+	padding: 5px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+
+
+
+}
+.titulo {
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #333366;
+
+}
+.subtitulo {
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #333366;
+}
+#seccion img {
+	text-decoration: none;
+	border: 0px none;
+}
+#seccion a {
+	text-decoration: none;
+	color: #000000;
+}
+#seccion a:hover {
+	color: #333366;
+	text-decoration: none;
+
+}

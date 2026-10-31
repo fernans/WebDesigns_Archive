@@ -1,0 +1,40 @@
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top"> 
+    <td width="500"> <table width="100%">
+        <tr> 
+          <td colspan=2> <span class="tituloContenido">Elemento</span> Flash 
+            <!--<hr align="center" width="560" noshade="NOSHADE"/> -->
+          </td>
+        </tr>
+        <tr> 
+          <td rowspan="2" valign="top"> <table>
+              <tr> 
+                <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="362" height="230">
+                    <param name="movie" value="../reloj.swf">
+                    <param name="quality" value="high">
+                    <embed src="../reloj.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="362" height="230"></embed></object></td>
+              </tr>
+            </table></td>
+          <td valign="top"> <div class="bloqueElemento">Texto explicativo de la 
+              imagen en cuesti&oacute;n, bla bla bla bla bla bla bla bla bla bla 
+              bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+              bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+              bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+              bla bla bla bla bla bla bla bla </div></td>
+        </tr>
+        <tr> 
+          <td align="right"><a href="javascript:history.go(-1);">Volver</a></td>
+        </tr>
+      </table></td>
+    <td align="center" valign="middle" class="lineaV">&nbsp;</td>
+    <!--LINEA VERTICAL PARA SEPARAR INTEMS DE LOS NIVELES-->
+    <td align="center" valign="middle"><!-- #BeginLibraryItem "/Library/niveles.lbi" -->
+<table class="tablaNiveles" width="80%" border="0" cellpadding="0" cellspacing="0">
+  <tr><td><a href="#">NIVEL 1</a></td></tr>
+  <tr><td><a href="#">NIVEL 2</a></td></tr>
+  <tr><td><a href="#">NIVEL 3</a></td></tr>
+</table>
+<!-- #EndLibraryItem --></td>
+  </tr>
+</table>

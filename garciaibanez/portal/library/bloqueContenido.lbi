@@ -1,0 +1,11 @@
+	<div class="bloque">
+		<div class="titulo">titulo</div>
+		<div class="subtitulo">subtitulo</div>		
+	    <img class="left" src="../images/mickey.jpg" width="138" height="62">texto descriptivo de la imagen
+      	<div class="indent"> 
+      		<div class="opcion">opcion 1</div>
+			<img class="right" src="../images/mickey.jpg" width="138" height="62"> 
+        	texto descriptivo de la imagen
+        	<div class="opcion">opcion 2</div>
+	 	</div><!-- fin de indent -->
+	</div><!-- fin de bloque-->

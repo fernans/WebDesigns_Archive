@@ -1,0 +1,6 @@
+<div id="menu">
+	 <div id="titulo">seccion 1</div>
+	 <div id="opcion"><a href="#">opcion 1</a></div>
+	 <div id="opcion"><a href="#">opcion 2</a></div>
+	 <div id="opcion"><a href="#">opcion 3</a></div>
+	</div>

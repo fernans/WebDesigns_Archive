@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>titulo </title>
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="estilos/estilos.css" type="text/css">
+<script language="javascript" src="scriptslib/utils.js"></script>
+</head>
+<body>
+<div id="globalContainer">
+ 
+  <div id="cabecera">
+    <div class="titulo">CSS2</div>
+  </div>
+  <div id="navegacion">
+    <div id="reloj"></div>
+  </div>
+  <div id="menu"> 
+    <div class="bloque"> 
+      <div class="titulo">Sección</div>
+      <div class="opcion"><a href="#">opcion 1</a></div>
+      <div class="opcion"><a href="#">opcion 2</a></div>
+      <div class="opcion"><a href="#">opcion 3</a></div>
+    </div>
+    <div class="bloque"> 
+      <div class="titulo">Secci&oacute;n</div>
+      <div class="opcion"><a href="#">opcion 1</a></div>
+      <div class="opcion"><a href="#">opcion 2</a></div>
+      <div class="opcion"><a href="#">opcion 3</a></div>
+    </div>
+  </div>
+  <div id="extra1"> logs<br>
+    certificaciones<br>
+    premios<br>
+    etc... 
+  </div>
+  
+  <div id="contenido"> 
+    <div class="columnas2"> 
+      <div class="bloque"> 
+        <div class="titulo">Noticias</div>
+        <div class="subtitulo">subtitulo</div>
+        <img class="left" src="images/mickey.jpg" width="138" height="62"> sdgas 
+        <em>asgasdgasdgas</em> dga sdga sdg asdg AG asadgasd gas dgasdgasdgasdg 
+        <div class="indent"> 
+          <div class="opcion">opcion 1</div>
+          <img class="right" src="images/mickey.jpg" width="138" height="62"> 
+          texto aopoasdkgla asdg laskdnga asgasdgas asdga 
+          <div class="opcion">opcion 2</div>
+        </div>
+      </div><!-- fin de bloque -->
+      <div class="bloque">
+        <div class="titulo">Formulario</div>
+		<form class="form"> 
+			<div class="campo"><div class="label">Campo1</div><input type="text"></div>			
+			<div class="campo"><div class="label">Campo2</div><input type="text"></div>			
+			<div class="campo"><div class="label">Campo3</div><input type="text"></div>
+			<div id="dummy"></div>			
+		</form>
+      </div><!-- fin de bloque -->
+    </div><!-- fin de columns2-->	
+    <div class="columnas1"> 
+      <div class="bloque">
+        <div class="titulo">Listas</div>
+      </div>
+    </div>
+    
+	<div class="columnas2"> 
+      <div class="bloque">
+        <div class="titulo">Menu Pestanyas</div>		
+		  <div id="tabs">
+			<a href="#" class="opcion">Opcion 1</a>
+			<a href="#" class="opcion">Opcion 2</a>
+			<a href="#" class="opcion">Opcion 3</a>
+		  </div>
+      </div>
+      
+	  <div class="bloque" border="1">    
+      <div class="titulo">Opciones</div>			   
+    	  <div class="left">
+			  <div><a href="#" onmouseover="mostrar('idOpcion1');" onmouseout="ocultar('idOpcion1');">
+					<img src="images/opcion.gif" width="16" height="16" align="absmiddle">Opción1
+			  </a></div>
+			  <div><a href="#" onmouseover="mostrar('idOpcion2');" onmouseout="ocultar('idOpcion2');">
+					<img src="images/opcion.gif" width="16" height="16" align="absmiddle">Opción1
+			  </a></div>
+		  </div>
+		  <div class="right">
+			  <div id="idOpcion1" style="display:none;">Bla bla bla bla bla 111111</div>
+			  <div id="idOpcion2" style="display:none;">Bla bla bla bla bla 222222</div>
+		  </div>
+      </div>
+    </div>
+	
+    <div class="columnas3"> 
+      <div class="bloque">
+        <div class="titulo">Popup</div>
+    	<div id="opcion" onClick="visualizaImg('extra2','imagen','images/mickey.jpg');"><img src="images/mickey.jpg" width="138" height="62">titulo</div>
+		<div id="opcion" onClick="visualizaImg('extra2','imagen','images/mickey.jpg');"><img src="images/mickey.jpg" width="138" height="62">titulo</div>
+		<div id="extra2" style="position:absolute; left:200px; top:200px; display:none; width:100px; height:100px;">
+			<div id="cerrar" style="float:right;" onClick="ocultar('extra2');">cerrar</div>
+			<img id="imagen" src="none" alt="imagen">
+		</div>
+	  </div>
+      <div class="bloque">
+        <div class="titulo">TRES</div>
+		contenido
+      </div>
+      <div class="bloque">
+        <div class="titulo">TRES</div>
+		contenido
+      </div>
+    </div>
+	<div id="dummy">&nbsp;</div>
+  </div>
+  <div id="pie">Copyright &copy; Sergi &amp; Fernans</div>
+</div>
+</body>
+</html>

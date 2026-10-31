@@ -1,0 +1,6 @@
+  <div class="bloque"> 
+	 <div class="titulo">seccion 1</div>
+	 <div class="opcion"><a href="#" alt="opcion1">opcion 1</a></div>
+	 <div class="opcion"><a href="#" alt="opcion2">opcion 2</a></div>
+	 <div class="opcion"><a href="#" alt="opcion3">opcion 3</a></div>
+</div>

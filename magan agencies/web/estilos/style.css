@@ -1,0 +1,139 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: lighter;
+	color: #000066;
+	text-decoration: none;
+	background-color: #D7CFBF;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 10pt;
+
+
+}
+a {
+	font-weight: bold;
+	color: #000066;
+	font-style: italic;
+	font-size: 10pt;
+	text-decoration: none;
+
+
+
+}
+
+.titulo {
+	font-size: 36px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.subtitulo {
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	color: #000066;
+}
+.sep {
+	background-color: #000066;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #D7CFBF;
+	text-align: center;
+
+
+}
+.sep1 {background-color: #333333;}
+
+.tablaForm {
+	font-size: 12px;
+	color: #000066;
+	font-weight: bold;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: center;
+
+}
+.tablaForm td {
+	font-weight: bold;
+	text-decoration: none;
+	font-style: normal;
+	font-size: 10pt;
+	text-align: left;
+}
+
+.tablaServicio {
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: normal;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: center;
+
+}
+.tablaServicio td {
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	font-style: normal;
+	background-image: url(../images/marca.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-right: 5px;
+	padding-left: 12px;
+	font-size: 10pt;
+	text-align: left;
+
+}
+.tablaServicio th {
+	color: #333333;
+	background-color: #CFCCDD;
+	border-bottom-width: thin;
+	border-bottom-style: groove;
+	border-bottom-color: #999999;
+	border-right-style: groove;
+	border-right-color: #999999;
+	border-right-width: thin;
+
+
+
+}
+
+
+
+.pie {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.bloque{
+	overflow:auto;
+	height: 245px;
+	width: 100%;
+}
+.bloqueElemento{
+	overflow:auto;
+	height: 200px;
+	width: 100%;
+}
+hr {
+	color: #000066;
+
+
+}
+.tituloContenido {
+	font-size: 18px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin-left: 5px;
+}
+	
+DIV.introduccion {
+	MARGIN: 4px 4px 4px 4px;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: bold;
+	color: #000066;
+	}

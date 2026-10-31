@@ -1,0 +1,225 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #595959;
+	text-decoration: none;
+	background-color: #595959;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 10px;
+	background-image: url(../images/logofondo.gif);
+
+
+
+}
+a {
+	font-weight: bold;
+	color: #201C1B;
+	font-style: italic;
+	font-size: 10px;
+	text-decoration: none;
+
+
+
+
+}
+
+.titulo {
+	font-size: 36px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.subtitulo {
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+}
+.tablaItem {
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: normal;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: center;
+
+}
+.tablaItem td {
+	color: #333333;
+	text-align: justify;
+
+}
+.tablaItem td.precio {
+	color: #666666;
+	font-size: 9px;
+	text-align: right;
+
+}
+.tablaItem th {
+	color: #CDCDCD;
+	background-color: #595959;
+	border-bottom-width: thin;
+	border-bottom-style: groove;
+	border-bottom-color: #999999;
+	border-right-style: groove;
+	border-right-color: #999999;
+	border-right-width: thin;
+	font-weight: bold;
+
+
+
+
+}
+
+.tablaMenu {
+	font-size: 12px;
+	color: #201C1B;
+	font-weight: normal;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: center;
+
+}
+.tablaMenu td {
+}
+.tablaMenu a {
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	font-style: normal;
+	background-image: url(../images/cuadro.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-right: 5px;
+	padding-left: 12px;
+	font-size: 11px;
+
+
+}
+.tablaMenu a:hover {
+	font-weight: bold;
+	color: #333333;
+	font-style: normal;
+	background-image: url(../images/cuadroUp.gif);
+	background-repeat: no-repeat;
+	padding-right: 5px;
+	padding-left: 12px;
+	font-size: 11px;
+
+
+}
+.tablaNiveles {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: normal;
+	margin-right: 2px;
+	margin-left: 2px;
+	text-align: center;
+}
+.tablaNiveles td {
+	color: #CCCCCC;
+
+}
+.tablaNiveles a {
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	font-style: normal;
+	background-image: url(../images/cuadro.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-right: 5px;
+	padding-left: 12px;
+
+
+}
+.tablaNiveles a:hover {
+	font-weight: bold;
+	color: #333333;
+	font-style: normal;
+	background-image: url(../images/cuadroUp.gif);
+	background-repeat: no-repeat;
+	padding-right: 5px;
+	padding-left: 12px;
+
+}
+
+.tablaHist {
+	font-size: 12px;
+	color: #201C1B;
+	font-weight: normal;
+	text-align: center;
+
+}
+.tablaHist td {
+}
+.tablaHist a {
+	font-weight: bold;
+	color: #333333;
+	font-style: normal;
+	font-size: 11px;
+
+
+}
+.tablaHist a:hover {
+	font-weight: bold;
+	color: #FFFFFF;
+	font-style: normal;
+	font-size: 11px;
+	background-color: #333333;
+
+
+
+}
+
+
+.pie {
+	font-size: 10px;
+	font-weight: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+
+}
+.bloque{
+	overflow:auto;
+	height: 240px;
+	width: 100%;
+}
+.bloqueElemento{
+	overflow:auto;
+	height: 200px;
+	width: 100%;
+}
+hr {
+	color: #CCCCCC;
+
+
+}
+.tituloContenido {
+	font-size: 18px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin-left: 5px;
+
+}
+.tablaItem th a {
+	font-style: normal;
+	text-decoration: none;
+	color: #FFF9F1;
+
+}
+.lineaV {
+	height: 100%;
+	width: 1px;
+	background-image: url(../images/linea_v.gif);
+	background-repeat: repeat-y;
+}
+#contenido a {
+
+	font-weight: bold;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,10 @@
+  <form id="acceso"  action="javascript:alert('Usuario no valido');">
+    <div id="titulo">Zona privada</div>
+    <div  id="form"> 
+      <label>usuario:<br></label>
+      <input type="text" name="user"><br>
+      <label>clave:</label>      <br>
+      <input type="password" name="pass"><br>
+      <input name="submit" type="submit" id="submit" value="Entrar">
+    </div>
+ </form>
