@@ -1,0 +1,34 @@
+C:\Documents and Settings\Luis San Juan\Desktop\t$m$p$$$\MP_Ali_rigv1.4.max
+C:\Documents and Settings\Luis San Juan\Desktop\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2008
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_body_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodyClear_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodyrtt_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_body_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodyArugas_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_arm_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_arm_clear_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_armRTT_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_arm_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_armarrugas_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_legs_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_legsClear_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_legsRTT_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_legs_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_legsArrugas_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_orejas_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_orejasClear_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_earRTT_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_orejas_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_orejasArrugas_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodytile_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodyTile_clear_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_bodyTile_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_tongue_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_boca_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_teeth_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_boton_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_boton_b.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_letras_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_eyes_d.jpg
+C:\Documents and Settings\Luis San Juan\Desktop\_Mundo de Pau\Textures\Ali\ali_boton_displace.jpg
