@@ -1,0 +1,1 @@
+Utiliza las flechas para desplazar a Ana y Luís por la pantalla.

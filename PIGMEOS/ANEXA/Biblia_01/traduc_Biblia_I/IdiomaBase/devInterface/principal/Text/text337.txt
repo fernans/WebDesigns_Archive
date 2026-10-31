@@ -1,0 +1,1 @@
+Si al entrar en una dependencia no se activan los diálogos, busca con el puntero, o coloca a los niños en el centro de la sala.

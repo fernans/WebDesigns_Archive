@@ -1,0 +1,1 @@
+Inserta el nombre con el que quieres guardar el juego y pulsa 'Guardar'

@@ -1,0 +1,1 @@
+En esta vidriera encontrarás los objetos que necesitas para completar el juego.Cada vez que encuentres uno, se iluminará su casilla.Puedes consultar los que te faltan.
