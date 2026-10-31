@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>inicio.jpg</title>
+<meta http-equiv="Content-Type" content="text/html;">
+<!--Fireworks MX 2004 Dreamweaver MX 2004 target.  Created Fri Sep 22 12:51:31 GMT+0200 2006-->
+<script language="JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_nbGroup(event, grpName) { //v6.0
+var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])?args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) { img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr) for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+</head>
+<body bgcolor="#247e9b" onLoad="MM_preloadImages('imágenes/home_f2.jpg','imágenes/home_f3.jpg','imágenes/about_me_f2.jpg','imágenes/about_me_f3.jpg','imágenes/animations_f2.jpg','imágenes/animations_f3.jpg','imágenes/art_work_f2.jpg','imágenes/art_work_f3.jpg','imágenes/links_f2.jpg','imágenes/links_f3.jpg');">
+<table border="0" cellpadding="0" cellspacing="0" width="1024">
+<!-- fwtable fwsrc="about me.png" fwbase="inicio.jpg" fwstyle="Dreamweaver" fwdocid = "1328163013" fwnested="0" -->
+  <tr>
+   <td><img src="imágenes/spacer.gif" width="208" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="118" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="10" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="118" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="10" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="118" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="10" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="118" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="10" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="118" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="186" height="1" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+
+  <tr>
+   <td colspan="11"><img name="inicio_r1_c1" src="imágenes/inicio_r1_c1.jpg" width="1024" height="71" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="1" height="71" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td rowspan="2"><img name="inicio_r2_c1" src="imágenes/inicio_r2_c1.jpg" width="208" height="697" border="0" alt=""></td>
+   <td><a href="#" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','home','imágenes/home_f2.jpg','imágenes/home_f3.jpg',1);" onClick="MM_nbGroup('down','navbar1','home','imágenes/home_f3.jpg',1);"><img name="home" src="imágenes/home.jpg" width="118" height="21" border="0" alt=""></a></td>
+   <td rowspan="2"><img name="inicio_r2_c3" src="imágenes/inicio_r2_c3.jpg" width="10" height="697" border="0" alt=""></td>
+   <td><a href="#" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','about_me','imágenes/about_me_f2.jpg','imágenes/about_me_f3.jpg',1);" onClick="MM_nbGroup('down','navbar1','about_me','imágenes/about_me_f3.jpg',1);"><img name="about_me" src="imágenes/about_me.jpg" width="118" height="21" border="0" alt=""></a></td>
+   <td rowspan="2"><img name="inicio_r2_c5" src="imágenes/inicio_r2_c5.jpg" width="10" height="697" border="0" alt=""></td>
+   <td><a href="#" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','animations','imágenes/animations_f2.jpg','imágenes/animations_f3.jpg',1);" onClick="MM_nbGroup('down','navbar1','animations','imágenes/animations_f3.jpg',1);"><img name="animations" src="imágenes/animations.jpg" width="118" height="21" border="0" alt=""></a></td>
+   <td rowspan="2"><img name="inicio_r2_c7" src="imágenes/inicio_r2_c7.jpg" width="10" height="697" border="0" alt=""></td>
+   <td><a href="#" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','art_work','imágenes/art_work_f2.jpg','imágenes/art_work_f3.jpg',1);" onClick="MM_nbGroup('down','navbar1','art_work','imágenes/art_work_f3.jpg',1);"><img name="art_work" src="imágenes/art_work.jpg" width="118" height="21" border="0" alt=""></a></td>
+   <td rowspan="2"><img name="inicio_r2_c9" src="imágenes/inicio_r2_c9.jpg" width="10" height="697" border="0" alt=""></td>
+   <td><a href="#" onMouseOut="MM_nbGroup('out');" onMouseOver="MM_nbGroup('over','links','imágenes/links_f2.jpg','imágenes/links_f3.jpg',1);" onClick="MM_nbGroup('down','navbar1','links','imágenes/links_f3.jpg',1);"><img name="links" src="imágenes/links.jpg" width="118" height="21" border="0" alt=""></a></td>
+   <td rowspan="2"><img name="inicio_r2_c11" src="imágenes/inicio_r2_c11.jpg" width="186" height="697" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="1" height="21" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="inicio_r3_c2" src="imágenes/inicio_r3_c2.jpg" width="118" height="676" border="0" alt=""></td>
+   <td><img name="inicio_r3_c4" src="imágenes/inicio_r3_c4.jpg" width="118" height="676" border="0" alt=""></td>
+   <td><img name="inicio_r3_c6" src="imágenes/inicio_r3_c6.jpg" width="118" height="676" border="0" alt=""></td>
+   <td><img name="inicio_r3_c8" src="imágenes/inicio_r3_c8.jpg" width="118" height="676" border="0" alt=""></td>
+   <td><img name="inicio_r3_c10" src="imágenes/inicio_r3_c10.jpg" width="118" height="676" border="0" alt=""></td>
+   <td><img src="imágenes/spacer.gif" width="1" height="676" border="0" alt=""></td>
+  </tr>
+</table>
+</body>
+</html>
