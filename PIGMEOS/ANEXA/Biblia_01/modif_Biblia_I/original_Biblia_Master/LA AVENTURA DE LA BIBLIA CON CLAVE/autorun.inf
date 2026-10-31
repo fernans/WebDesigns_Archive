@@ -1,0 +1,5 @@
+[autorun]
+open=AutoRun.exe @EXEDRV@\La Aventura de la Biblia_setup.exe
+icon=icono2_LAB.ico
+[AutorunPro]
+Run1=La Aventura de la Biblia_setup.exe
