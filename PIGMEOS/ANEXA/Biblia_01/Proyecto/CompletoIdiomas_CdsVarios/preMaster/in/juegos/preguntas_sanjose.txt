@@ -1,0 +1,184 @@
+&totalpreguntas=30&
+
+&pregunta0=Where is Jesus now?&
+&respuesta0a=In the Sacrarium&
+&respuesta0b=On the Cross.&
+&respuesta0c=In Jerusalem.&
+&correcta0=a&
+
+&pregunta1=What was the First Pope´s name?&
+&respuesta1a=John&
+&respuesta1b=Peter&
+&respuesta1c=Pious&
+&correcta1=b&
+
+&pregunta2=Who was Jesus` cousin?&
+&respuesta2a=John&
+&respuesta2b=James&
+&respuesta2c=Peter&
+&correcta2=a&
+
+&pregunta3=Who ruled in Galilee when Jesus was born?&
+&respuesta3a=Pilate&
+&respuesta3b=Herod&
+&respuesta3c=Nero&
+&correcta3=b&
+
+&pregunta4=Where did the Virgin Mary and Saint Joseph find Jesus when He got lost as a child?&
+&respuesta4a=At the Temple in Jerusalem.&
+&respuesta4b=In the caravan.&
+&respuesta4c=At John the Baptist`s house.&
+&correcta4=a&
+
+&pregunta5=Where was Jesus tempted?&
+&respuesta5a=In the temple. &
+&respuesta5b=At the sea of Galilee.&
+&respuesta5c=In the desert.&
+&correcta5=c&
+
+&pregunta6=How many times did Jesus multiply the breads and fish?&
+&respuesta6a=Three&
+&respuesta6b=One&
+&respuesta6c=Two&
+&correcta6=c&
+
+&pregunta7=How old was Jesus when He began his teachings?&
+&respuesta7a=Eighteen.&
+&respuesta7b=Twenty.&
+&respuesta7c=Thirty.&
+&correcta7=c&
+
+&pregunta8=How many times did Jesus fall on His way to Mount Calvary?&
+&respuesta8a=One&
+&respuesta8b=Five&
+&respuesta8c=Three&
+&correcta8=c&
+
+&pregunta9=Who helped Jesus carry the Cross?&
+&respuesta9a= Saint John.&
+&respuesta9b=Veronica&
+&respuesta9c=Simon of Cyrene.&
+&correcta9=c&
+
+&pregunta10=Who walked over the waters at Jesus` command?&
+&respuesta10a=Bartholomew&
+&respuesta10b=Judas&
+&respuesta10c=Peter&
+&correcta10=c&
+
+&pregunta11=To whom did Jesus say: “Tonight you shall disown me three times” before His Passion?&
+&respuesta11a=Peter&
+&respuesta11b=James&
+&respuesta11c=Judas&
+&correcta11=a&
+
+&pregunta12=Of whom did Jesus say: “There, truly, is an Israelite in whom there is no deception”?&
+&respuesta12a=Nathanael&
+&respuesta12b=Peter&
+&respuesta12c=Thaddeus&
+&correcta12=a&
+
+&pregunta13=To where did the Holy Family flee?&
+&respuesta13a=To Rome. &
+&respuesta13b=To Egypt. &
+&respuesta13c=To the Sinai Dessert&
+&correcta13=b&
+
+&pregunta14=Who was Saint John`s brother, whom Jesus called “the son of thunder”?&
+&respuesta14a=James&
+&respuesta14b=Peter&
+&respuesta14c=Judas&
+&correcta14=a&
+
+&pregunta15=Did the fig tree dry up for lack of fruit?&
+&respuesta15a=Yes&
+&respuesta15b=No&
+&respuesta15c=It was watered.&
+&correcta15=a&
+
+&pregunta16=Did Jesus like children?&
+&respuesta16a=No, because they did not let him preach.&
+&respuesta16b=Yes, because he said that only those who became like children would be able to enter Heaven.&
+&respuesta16c=Sometimes He did and others He didn´t, because they were children.&
+&correcta16=b&
+
+&pregunta17=What was the name of the friend for whom Jesus wept and then raised from his tomb? &
+&respuesta17a=The son of the widow.&
+&respuesta17b=The daughter of Jairo.&
+&respuesta17c=Lazarus.&
+&correcta17=c&
+
+&pregunta18=Did Jesus go to the Roman Centurion`s house to cure his servant?&
+&respuesta18a=Yes, because he would be put into custody if he didn´t.&
+&respuesta18b=No, because the centurion did not consider himself worthy of Jesus` visit.&
+&respuesta18c=No, because his disciples prevented him from going into a roman´s house.&
+&correcta18=b&
+
+&pregunta19=Which animal did Jesus ask for to carry him on Palm Sunday?&
+&respuesta19a=A camel.&
+&respuesta19b=A young donkey&
+&respuesta19c=An old donkey.&
+&correcta19=c&
+
+&pregunta20=Who did Jesus ask for water from Jacob´s well?&
+&respuesta20a=A woman from Cana.&
+&respuesta20b=A woman from Samaria.&
+&respuesta20c=Mary and Martha.&
+&correcta20=b&
+
+&pregunta21=According to the Gospel, to whom did Jesus first show Himself after His Resurrection?&
+&respuesta21a=To the Apostles.&
+&respuesta21b=To Mary of Magdala.&
+&respuesta21c=To the disciples of Emmaus.&
+&correcta21=b&
+
+&pregunta22=What was the name of the disciple who doubted of Christ`s resurrection?&
+&respuesta22a=Judas Thaddeus.&
+&respuesta22b=Matthew&
+&respuesta22c=Thomas&
+&correcta22=c&
+
+&pregunta23=Who helped the man who was assaulted by bandits according to the parable?&
+&respuesta23a=A Jewish priest.&
+&respuesta23b=A Samarithan.&
+&respuesta23c=A Scribe.&
+&correcta23=b&
+
+&pregunta24=Who had to climb a tree to see Jesus go by because he was very short?&
+&respuesta24a=A boy.&
+&respuesta24b=Zacchaeus&
+&respuesta24c=Nicodemus&
+&correcta24=b&
+
+&pregunta25=What did the friends of a paralysed man do because they could not get closer to Jesus?&
+&respuesta25a=They opened their way using a cane.&
+&respuesta25b=They got him down through the roof.&
+&respuesta25c=They waited for Jesus to come out and took Him to the paralysed man`s house.&
+&correcta25=b&
+
+&pregunta26=Who was sent by God to announce to the Virgin Mary that she would be the Mother of Christ?&
+&respuesta26a=The Archangel Saint Raphael.&
+&respuesta26b=The Archangel Saint Gabriel.&
+&respuesta26c=The Archangel Saint Michael.&
+&correcta26=b&
+
+&pregunta27=What were Jesus` words before He ascended into Heaven?&
+&respuesta27a=Go out to the whole world; proclaim the gospel to all creation.&
+&respuesta27b=Love one another.&
+&respuesta27c=Take no haversack or walking stick.&
+&correcta27=a&
+
+&pregunta28=What happened at the miraculous fishing?&
+&respuesta28a=They threw the nets where Jesus told them to and they could not bring them back on board due to the weight of the fish.&
+&respuesta28b=The fish went into the fishing net by themselves.s&
+&respuesta28c=Jesus caught the fishing nets and they filled themselves up.&
+&correcta28=a&
+
+&pregunta29=Who told the Three Wise Men where the Mesiah would be born when they lost sight of the star?&
+&respuesta29a=The priests of Rome.&
+&respuesta29b=The Egyptian astronomers.&
+&respuesta29c=The wise men of King Herod.&
+&correcta29=c&
+
+
+&empieza=true&

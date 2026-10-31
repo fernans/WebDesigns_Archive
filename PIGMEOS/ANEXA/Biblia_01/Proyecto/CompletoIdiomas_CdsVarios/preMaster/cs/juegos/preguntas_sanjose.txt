@@ -1,0 +1,184 @@
+&totalpreguntas=30&
+
+&pregunta0=¿Donde está ahora Jesucristo?&
+&respuesta0a=En el Sagrario&
+&respuesta0b=En la Cruz&
+&respuesta0c=En Jerusalén&
+&correcta0=a&
+
+&pregunta1=¿Cómo se llamó el primer Papa?&
+&respuesta1a=Juan&
+&respuesta1b=Pedro&
+&respuesta1c=Pío&
+&correcta1=b&
+
+&pregunta2=¿Quién era el primo de Jesús?&
+&respuesta2a=Juan&
+&respuesta2b=Santiago&
+&respuesta2c=Pedro&
+&correcta2=a&
+
+&pregunta3=¿Quién gobernaba en Galilea cuando nació Jesús?&
+&respuesta3a=Pilatos&
+&respuesta3b=Herodes&
+&respuesta3c=Nerón&
+&correcta3=b&
+
+&pregunta4=¿Dónde encontraron  la Virgen y San José a Jesús cuando se perdió de pequeño?&
+&respuesta4a=En el templo de Jerusalén&
+&respuesta4b=En la caravana&
+&respuesta4c=En casa de Juan Bautista&
+&correcta4=a&
+
+&pregunta5=¿Dónde fue tentado Jesús?&
+&respuesta5a=En el templo &
+&respuesta5b=En el mar de Galilea&
+&respuesta5c=En el desierto&
+&correcta5=c&
+
+&pregunta6=¿Cuántas veces multiplicó Jesús los panes y los peces?&
+&respuesta6a=Tres&
+&respuesta6b=Una&
+&respuesta6c=Dos&
+&correcta6=c&
+
+&pregunta7=¿Cuántos años tenía Jesús cuando comenzó a predicar?&
+&respuesta7a=Dieciocho&
+&respuesta7b=Veinte&
+&respuesta7c=Treinta&
+&correcta7=c&
+
+&pregunta8=¿Cuántas veces se cayó Jesús camino del Calvario?&
+&respuesta8a=Una&
+&respuesta8b=Cinco&
+&respuesta8c=Tres&
+&correcta8=c&
+
+&pregunta9=¿Quién ayudó a Jesús a llevar la cruz?&
+&respuesta9a= San Juan&
+&respuesta9b=La Verónica&
+&respuesta9c=Simón de Cirene&
+&correcta9=c&
+
+&pregunta10=¿Quién anduvo sobre las aguas por mandato de Jesús?&
+&respuesta10a=Bartolomé&
+&respuesta10b=Judas&
+&respuesta10c=Pedro&
+&correcta10=c&
+
+&pregunta11=¿A quién le dijo Jesús "Esta noche me negarás tres veces" antes de su pasión?&
+&respuesta11a=Pedro&
+&respuesta11b=Santiago&
+&respuesta11c=Judas&
+&correcta11=a&
+
+&pregunta12=¿De quién dijo Jesús "He ahí un israelita que no miente"?&
+&respuesta12a=Natanael&
+&respuesta12b=Pedro&
+&respuesta12c=Tadeo&
+&correcta12=a&
+
+&pregunta13=¿A Dónde huyó la Sagrada Familia?&
+&respuesta13a=A Roma &
+&respuesta13b=A Egipto &
+&respuesta13c=Al Sinaí&
+&correcta13=b&
+
+&pregunta14=¿Quién era el hermano de San Juan a quienes llamó Jesús los hijos del trueno?&
+&respuesta14a=Santiago&
+&respuesta14b=Pedro&
+&respuesta14c=Judas&
+&correcta14=a&
+
+&pregunta15=¿Se secó la higuera por no dar fruto?&
+&respuesta15a=Sí&
+&respuesta15b=No&
+&respuesta15c=La regaron&
+&correcta15=a&
+
+&pregunta16=¿Le gustaban a Jesús los niños?&
+&respuesta16a=No, porque no le dejaban predicar&
+&respuesta16b=Sí, porque dijo que sólo podrían entrar en el cielo aquellos que se hicieran como niños&
+&respuesta16c=A veces sí y a veces no, porque eran niños. &
+&correcta16=b&
+
+&pregunta17=¿A qué amigo resucitó Jesús y lloró por él?&
+&respuesta17a=Al hijo de la viuda&
+&respuesta17b=A la hija de Jairo&
+&respuesta17c=A Lázaro&
+&correcta17=c&
+
+&pregunta18=¿Fue Jesús a casa del centurión para curar a su criado?&
+&respuesta18a=Sí, porque si no iba le iban a perseguir&
+&respuesta18b=No, porque el centurión no se consideró digno de que le visitara Jesús&
+&respuesta18c=No, porque se lo impidieron los discípulos, por ser romano y no judío.&
+&correcta18=b&
+
+&pregunta19=¿Qué animal pidió Jesús para que le llevase el domingo de Ramos?&
+&respuesta19a=Un camello&
+&respuesta19b=Un asno&
+&respuesta19c=Un pollino&
+&correcta19=c&
+
+&pregunta20=¿Quién dió de beber a Jesús cuando él se lo pidió en el pozo de Jacob?&
+&respuesta20a=Una mujer cananea&
+&respuesta20b=Una mujer samaritana&
+&respuesta20c=María y Marta&
+&correcta20=b&
+
+&pregunta21=¿A quién se apareció primero  Jesús después de la resurrección, según los evangelios?&
+&respuesta21a=A los apóstoles&
+&respuesta21b=A María Magdalena&
+&respuesta21c=A los discípulos de Emaús&
+&correcta21=b&
+
+&pregunta22=¿Cómo se llamaba el apóstol que no se creyó la resurrección de Jesús?&
+&respuesta22a=Judas Tadeo&
+&respuesta22b=Mateo&
+&respuesta22c=Tomás&
+&correcta22=c&
+
+&pregunta23=¿Quién fue el que ayudó al hombre que fue asaltado por los ladrones según la parábola?&
+&respuesta23a=Un sacerdote judío&
+&respuesta23b=Un samaritano&
+&respuesta23c=Un escriba&
+&correcta23=b&
+
+&pregunta24=¿Quién se tuvo que subir a un árbol para ver a Jesús porque era bajito?&
+&respuesta24a=Un niño&
+&respuesta24b=Zaqueo&
+&respuesta24c=Nicodemo&
+&correcta24=b&
+
+&pregunta25=¿Qué hicieron los amigos de un paralítico porque no se podían acercar a Jesús?&
+&respuesta25a=Se abrieron paso con un bastón&
+&respuesta25b=Le bajaron por el tejado&
+&respuesta25c=Esperaron a que saliera de la casa y le llevaron a la suya&
+&correcta25=b&
+
+&pregunta26=¿A quién envió Dios a la Virgen Santa María para anunciarle que iba a ser Madre de Jesús?&
+&respuesta26a=Al Arcángel San Rafael&
+&respuesta26b=Al Arcángel San Gabriel&
+&respuesta26c=Al Arcángel San Miguel&
+&correcta26=b&
+
+&pregunta27=¿Cuáles fueron las palabras de Jesús antes de subir al cielo?&
+&respuesta27a=Id por todo el mundo y predicad el evangelio&
+&respuesta27b=Amaros los unos a los otros&
+&respuesta27c=No llevéis ni alforja ni bastón&
+&correcta27=a&
+
+&pregunta28=¿Qué pasó en la pesca milagrosa?&
+&respuesta28a=Que echaron las redes en el lugar  que les dijo Jesús y no podían con la cantidad de peces&
+&respuesta28b=Que se metieron los peces dentro de la red ellos solos&
+&respuesta28c=Que Jesús cogió las redes y se llenaron&
+&correcta28=a&
+
+&pregunta29=¿Quiénes les dijeron a los Reyes Magos dónde iba a nacer el Mesías cuando no vieron la estrella?&
+&respuesta29a=Los sacerdotes de Roma&
+&respuesta29b=Los astrónomos egipcios&
+&respuesta29c=Los sabios del rey Herodes&
+&correcta29=c&
+
+
+&empieza=true&

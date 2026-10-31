@@ -1,0 +1,184 @@
+&totalpreguntas=30&
+
+&pregunta0=Dove si trova ora Gesù?&
+&respuesta0a=Nel tabernacolo&
+&respuesta0b=Sulla Croce&
+&respuesta0c=A Gerusalemme&
+&correcta0=a&
+
+&pregunta1=Come si chiamava il primo Papa?&
+&respuesta1a=Giovanni&
+&respuesta1b=Pietro&
+&respuesta1c=Pío&
+&correcta1=b&
+
+&pregunta2=Chi era il cugino di Gesù?&
+&respuesta2a=Giovanni&
+&respuesta2b=Giacomo&
+&respuesta2c=Pietro&
+&correcta2=a&
+
+&pregunta3=Chi governava in Galilea quando nacque Gesù?&
+&respuesta3a=Pilato&
+&respuesta3b=Erode&
+&respuesta3c=Nerone&
+&correcta3=b&
+
+&pregunta4=Dove trovarono Gesù la Vergine e San Giuseppe quando si perse da piccolo?&
+&respuesta4a=Nel tempio di Gerusalemme&
+&respuesta4b=Nella carovana&
+&respuesta4c=In casa di Giovanni Battista&
+&correcta4=a&
+
+&pregunta5=Dove fu tentato Gesù?&
+&respuesta5a=Nel tempio &
+&respuesta5b=Nel Mar di Galilea&
+&respuesta5c=Nel deserto&
+&correcta5=c&
+
+&pregunta6=Quante volte Gesù moltiplicò i pani e i pesci?&
+&respuesta6a=Tre&
+&respuesta6b=Una&
+&respuesta6c=Due&
+&correcta6=c&
+
+&pregunta7=Quanti anni aveva Gesù quando cominciò a predicare?&
+&respuesta7a=Diciotto&
+&respuesta7b=Venti&
+&respuesta7c=Trenta&
+&correcta7=c&
+
+&pregunta8=Quante volte cadde Gesù nel cammino del Calvario?&
+&respuesta8a=Una&
+&respuesta8b=Cinque&
+&respuesta8c=Tre&
+&correcta8=c&
+
+&pregunta9=Chi aiutò Gesù a portare la Croce?&
+&respuesta9a= San Giovanni&
+&respuesta9b=La Veronica&
+&respuesta9c=Simone di Cirene&
+&correcta9=c&
+
+&pregunta10=Chi camminò sulle acque per ordine di Gesù?&
+&respuesta10a=Bartolomeo&
+&respuesta10b=Giuda&
+&respuesta10c=Pietro&
+&correcta10=c&
+
+&pregunta11=A chi disse Gesù”Questa notte mi rinnegherai tre volte?”prima della sua passione?&
+&respuesta11a=Pietro&
+&respuesta11b=Giacomo&
+&respuesta11c=Giuda&
+&correcta11=a&
+
+&pregunta12=Di chi disse Gesù “Ecco un israelita che non mente”?&
+&respuesta12a=Nataniele&
+&respuesta12b=Pietro&
+&respuesta12c=Taddeo&
+&correcta12=a&
+
+&pregunta13=Dove fuggì la Sacra Famiglia?&
+&respuesta13a=A Roma &
+&respuesta13b=In Egitto&
+&respuesta13c=Nel Sinai&
+&correcta13=b&
+
+&pregunta14=Chi era il fratello di San Giovanni, i quali furono chiamati da Gesù i figli del trono?&
+&respuesta14a=Giacomo&
+&respuesta14b=Pietro&
+&respuesta14c=Giuda&
+&correcta14=a&
+
+&pregunta15=Si seccò il fico per non aver dato frutti?&
+&respuesta15a=Sì&
+&respuesta15b=No&
+&respuesta15c=Lo innaffiarono&
+&correcta15=a&
+
+&pregunta16=A Gesú piacevano i bambini?&
+&respuesta16a=No, perchè non lo lasciavano predicare&
+&respuesta16b=Sì, perchè disse che potevano entrare nel Regno dei Cieli  solo coloro che fossero tornati bambini&
+&respuesta16c=A volte si e a volte no, perchè erano bambini. &
+&correcta16=b&
+
+&pregunta17=Chi resuscitò Gesù e poi pianse per lui?&
+&respuesta17a=Il figlio della vedova&
+&respuesta17b=La figlia di Jairo&
+&respuesta17c=Lazzaro&
+&correcta17=c&
+
+&pregunta18=Andò Gesù a casa del centurione per curare il suo domestico?&
+&respuesta18a=Sì, perchè se no l’avrebbero inseguito&
+&respuesta18b=No, perchè il centurione non si considerò degno della visita di Gesù&
+&respuesta18c=No, perchè glielo impedirono i discepoli, per essere romano e non ebreo.&
+&correcta18=b&
+
+&pregunta19=Quale animale chiese Gesù per portarlo la domenica delle Palme?&
+&respuesta19a=Un cammello&
+&respuesta19b=Un asino&
+&respuesta19c=Un asinello&
+&correcta19=c&
+
+&pregunta20=Chi diede da bere a Gesù quando lui ne chiese al pozzo di Giacobbe?&
+&respuesta20a=Una donna cananea&
+&respuesta20b=Una donna samaritana&
+&respuesta20c=Maria e Marta&
+&correcta20=b&
+
+&pregunta21=A chi apparve Gesù dopo la resurrezione, secondo i vangeli?&
+&respuesta21a=Agli apostoli&
+&respuesta21b=A Maria Maddalena&
+&respuesta21c=Ai discepoli di Emmaus&
+&correcta21=b&
+
+&pregunta22=Come si chaimava l’apostolo che non credette alla resurrezione di Gesù?&
+&respuesta22a=Giuda Taddeo&
+&respuesta22b=Matteo&
+&respuesta22c=Tommaso&
+&correcta22=c&
+
+&pregunta23=Chi aiutò l’uomo che fu assalito dai ladroni secondo la parabola?&
+&respuesta23a=Un sacerdote ebreo&
+&respuesta23b=Un samaritano&
+&respuesta23c=Uno scriba&
+&correcta23=b&
+
+&pregunta24=Chi dovette salire su un albero per vedere Gesù dato che era basso?&
+&respuesta24a=Un bambino&
+&respuesta24b=Zaccheo&
+&respuesta24c=Nicodemo&
+&correcta24=b&
+
+&pregunta25=Cosa fecero gli amici di un paralitico dato che non potevano avvicinarsi a Gesù?&
+&respuesta25a=Si fecero strada con dei bastoni&
+&respuesta25b=Lo fecero scendere dal tetto&
+&respuesta25c=Aspettarono che uscisse di casa per portarlo alla loro&
+&correcta25=b&
+
+&pregunta26=Chi inviò Dio alla Vergine Maria per annunciarle che sarebbe sata la madre di Gesù?&
+&respuesta26a=L’Arcangelo San Raffaele&
+&respuesta26b=L’arcangelo San Gabriele&
+&respuesta26c=L’Arcangelo San Michele&
+&correcta26=b&
+
+&pregunta27=Quali furono le parole di Gesù prima di salire al cielo?&
+&respuesta27a=Andate per tutto il mondo e predicate il vangelo&
+&respuesta27b=Amatevi gli uni con gli altri&
+&respuesta27c=Non portate nè bisaccia nè bastone&
+&correcta27=a&
+
+&pregunta28=Cosa successe nelle pesca miracolosa?&
+&respuesta28a=Che tirarono le reti nel luogo che gli disse Gesù e non poterono raccogliere tutto quel pesce&
+&respuesta28b=Che i pesci si misero da soli nella rete&
+&respuesta28c=Che Gesù prese le reti e queste si riempirono&
+&correcta28=a&
+
+&pregunta29=Chi disse ai Re Magi dove sarebbe nato il Messia quando non videro la stella cometa?&
+&respuesta29a=I sacerdoti di Roma&
+&respuesta29b=Gli astronomi egiziani&
+&respuesta29c=I saggi del re Erode&
+&correcta29=c&
+
+
+&empieza=true&

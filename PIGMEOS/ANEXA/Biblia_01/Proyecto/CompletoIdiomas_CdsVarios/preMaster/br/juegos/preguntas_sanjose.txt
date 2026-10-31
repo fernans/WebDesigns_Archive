@@ -1,0 +1,184 @@
+&totalpreguntas=30&
+
+&pregunta0=Onde está agora Jesus Cristo?&
+&respuesta0a=No Sacrário.&
+&respuesta0b=Na Cruz.&
+&respuesta0c=Em Jerusalém &
+&correcta0=a&
+
+&pregunta1=Como se chamou o primeiro Papa?&
+&respuesta1a=João&
+&respuesta1b=Pedro&
+&respuesta1c=Pío&
+&correcta1=b&
+
+&pregunta2=Quem era o Primo de Jesus?&
+&respuesta2a=João&
+&respuesta2b=Santiago&
+&respuesta2c=Pedro&
+&correcta2=a&
+
+&pregunta3=Quem governava a Galiléia quando nasceu Jesus?&
+&respuesta3a=Pilatos&
+&respuesta3b=Herodes&
+&respuesta3c=Nero&
+&correcta3=b&
+
+&pregunta4=Onde encontraram a Virgem e São José a Jesus quando se perdeu quando era pequeno?&
+&respuesta4a=No templo de Jerusalém&
+&respuesta4b=Na caravana&
+&respuesta4c=Em casa de João Batista&
+&correcta4=a&
+
+&pregunta5=Onde foi tentado Jesus?&
+&respuesta5a=No templo &
+&respuesta5b=No mar da Galiléia&
+&respuesta5c=No deserto&
+&correcta5=c&
+
+&pregunta6=Quantas vezes multiplicou Jesus os paes?&
+&respuesta6a=Três&
+&respuesta6b=Uma&
+&respuesta6c=Duas&
+&correcta6=c&
+
+&pregunta7=Quantos anos tinha Jesus quando começou a pregar?&
+&respuesta7a=Dezoito&
+&respuesta7b=Vinte&
+&respuesta7c=Trinta&
+&correcta7=c&
+
+&pregunta8=Quantas vezes caiu Jesus no caminho para o calvário?&
+&respuesta8a=Uma&
+&respuesta8b=Cinco&
+&respuesta8c=Três&
+&correcta8=c&
+
+&pregunta9=Quem ajudou a Jesus a levar a cruz?&
+&respuesta9a= São João&
+&respuesta9b=A Verônica&
+&respuesta9c=Simão de Cirenel.&
+&correcta9=c&
+
+&pregunta10=Quem andou sobre as águas por mandato de Jesus?.&
+&respuesta10a=Bartolomeu&
+&respuesta10b=Judas&
+&respuesta10c=Pedro&
+&correcta10=c&
+
+&pregunta11=A quem disse Jesus: ¨Esta noite me negarás três vezes¨antes de sua paixão?&
+&respuesta11a=Pedro&
+&respuesta11b=Santiago&
+&respuesta11c=Judas&
+&correcta11=a&
+
+&pregunta12=De quem falou Jesus. ¨Este aí é um israelista que não mente¨?&
+&respuesta12a=Natanael&
+&respuesta12b=Pedro&
+&respuesta12c=Tadeu&
+&correcta12=a&
+
+&pregunta13=A onde foi a Sagrada Família?&
+&respuesta13a=A Roma &
+&respuesta13b=Ao Egito. &
+&respuesta13c=Ao Sinai&
+&correcta13=b&
+
+&pregunta14=Quem era o irmão de São João a quem chamou Jesus os filhos do trono?&
+&respuesta14a=Tiago&
+&respuesta14b=Pedro&
+&respuesta14c=Judas&
+&correcta14=a&
+
+&pregunta15=Se seco a figueira por não produzir frutos?&
+&respuesta15a=Sim&
+&respuesta15b=Não&
+&respuesta15c=A regaram&
+&correcta15=a&
+
+&pregunta16=Gostava Jesus das crianças?&
+&respuesta16a=Não, porque não lhe deixava pregar.&
+&respuesta16b=Sim, porque disse que só poderão entrar no céu aqueles que forem como crianças.&
+&respuesta16c=Às vezes sim a vezes não, porque eram crianças.&
+&correcta16=b&
+
+&pregunta17=A que amigo ressuscitou Jesus e chorou  por ele?&
+&respuesta17a=Ao filho da viúva.&
+&respuesta17b=A filha de Jairo. &
+&respuesta17c=A Lázaro&
+&correcta17=c&
+
+&pregunta18=Foi Jesus a casa do centurião para curar o seu criado?&
+&respuesta18a=Sim, porque sim não ia irião lhe perseguir.&
+&respuesta18b=Não, porque o centrurião não se considerou digno de que lhe visitara a Jesus.&
+&respuesta18c=Não, porque o impediram os discípulos, por ser romano e não judeu. &
+&correcta18=b&
+
+&pregunta19=Que animal pidiu Jesus para que lhe leva-se ao domingo de Ramos?&
+&respuesta19a=Num camelo.&
+&respuesta19b=Num asno&
+&respuesta19c=Num Jumento&
+&correcta19=c&
+
+&pregunta20=Quem deu de beber a Jesus quando ele pediu no poço de Jacó?&
+&respuesta20a=Uma mulher cananeia.&
+&respuesta20b=Uma mulher samaritana.&
+&respuesta20c=Maria e Marta.&
+&correcta20=b&
+
+&pregunta21=A quem se aparecei primeiro Jesus depois que ele ressuscitou, Segundo aos evangelhos?&
+&respuesta21a=Aos apóstolos.&
+&respuesta21b=A Maria Madalena&
+&respuesta21c=Aos discípulos de Emaús. &
+&correcta21=b&
+
+&pregunta22=Cómo se chamava o apóstolo que não acreditou na ressurreição? &
+&respuesta22a=Judas Tadeo&
+&respuesta22b=Mateus&
+&respuesta22c=Tomé&
+&correcta22=c&
+
+&pregunta23=Quem foi o que ajudou o homem assaltado por ladrões segundo a parábola?&
+&respuesta23a=Um sacerdote judeu.&
+&respuesta23b=Um samaritano&
+&respuesta23c=Um escriba&
+&correcta23=b&
+
+&pregunta24=Quem teve que subir em uma árvore para ver  Jesus porque era baixo?&
+&respuesta24a=Um menino&
+&respuesta24b=Zaqueu&
+&respuesta24c=Nicodemus&
+&correcta24=b&
+
+&pregunta25=O quê fizeram os amigos de um paralítico porque não podiam se aproximar de Jesus?&
+&respuesta25a=Abriram caminho com um bastão.&
+&respuesta25b=Baixaram-lhe pelo telhado&
+&respuesta25c=Esperaram que saísse da casa e lhe levaram para a sua.&
+&correcta25=b&
+
+&pregunta26= A quem enviou Deus a Virgem Santa Maria para anunciar que iría ser Mãe de Jesus?&
+&respuesta26a=Ao Anjo São Rafael&
+&respuesta26b=Ao Anjo São Gabriel &
+&respuesta26c=Ao Anjo São Miguel.&
+&correcta26=b&
+
+&pregunta27=Quais foram as palavras de Jesus antes de subir ao céu?&
+&respuesta27a=Ide por todo o mundo e pregai o evangelho.&
+&respuesta27b=Amarás uns aos outros.&
+&respuesta27c=Não levais nem sacolas nem bastão.&
+&correcta27=a&
+
+&pregunta28=Que passou na pesca milagrosa?&
+&respuesta28a=Encheram as redes no lugar que lhes disse Jesus e não podiam com a quantidade de peixes.&
+&respuesta28b=Que colocaram os peixes dentro da rede eles sozinhos.&
+&respuesta28c=Que Jesus recolheu as redes e se encheram..&
+&correcta28=a&
+
+&pregunta29= A quem que os Reis Magos disseram aonde ia nascer o Messias quando viram a estrela? &
+&respuesta29a=Os sacerdotes de Roma &
+&respuesta29b=Os astrônomos Egipios &
+&respuesta29c=Os sábios do Rei Herodes.&
+&correcta29=c&
+
+
+&empieza=true&

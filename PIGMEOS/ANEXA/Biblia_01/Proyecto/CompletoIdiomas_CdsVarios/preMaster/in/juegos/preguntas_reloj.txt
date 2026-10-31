@@ -1,0 +1,36 @@
+&totalpreguntas=5&
+
+&pregunta0=How many Commandments are there?&
+&respuesta0a=12&
+&respuesta0b=8&
+&respuesta0c=10&
+&correcta0=c&
+
+&pregunta1=How many were the Wise Men?&
+&respuesta1a=3&
+&respuesta1b=4&
+&respuesta1c=2&
+&correcta1=a&
+
+&pregunta2=How many deadly sins are there?&
+&respuesta2a=5&
+&respuesta2b=6&
+&respuesta2c=7&
+&correcta2=c&
+
+&pregunta3=How many Commandments of the Church are there?&
+&respuesta3a=5&
+&respuesta3b=6&
+&respuesta3c=7&
+&correcta3=a&
+
+&pregunta4=How many days did God take to create the world?&
+&respuesta4a=10&
+&respuesta4b=7&
+&respuesta4c=6&
+&correcta4=c&
+
+
+
+
+&empieza=true&
