@@ -1,0 +1,175 @@
+&preguntas=20&
+&opciones=5&
+&acertarfacil=2&
+&acertarnormal=4&
+&acertardificil=6&
+
+&pregunta_1=¿Quiénes fueron los padres de María?&
+&opcion_1_1=Antonio y Jorge&
+&opcion_1_2=Joaquín y Ana&
+&opcion_1_3=Pedro y Sara&
+&opcion_1_4=Manuel y Gloria&
+&opcion_1_5=Alfonso y Elisa&
+&correcta_1=2&
+
+&pregunta_2=¿Dónde nació la Virgen María?&
+&opcion_2_1=En Israel&
+&opcion_2_2=En Belén&
+&opcion_2_3=En Nazareth&
+&opcion_2_4=En Madrid&
+&opcion_2_5=En Roma&
+&correcta_2=3&
+
+&pregunta_3=¿Quién es la Virgen María?&
+&opcion_3_1=Una mujer muy creyente&
+&opcion_3_2=La mujer de Juan&
+&opcion_3_3=La madre de Dios porque es la madre de Jesús&
+&opcion_3_4=La madre de 3 hijos&
+&opcion_3_5=Una mujer fuerte y valiente&
+&correcta_3=3&
+
+&pregunta_4=¿Quién es el esposo de María?&
+&opcion_4_1=Jorge&
+&opcion_4_2=Joaquín&
+&opcion_4_3=Pedro&
+&opcion_4_4=Manuel&
+&opcion_4_5=José&
+&correcta_4=5&
+
+&pregunta_5=¿Concibió María a Jesús?&
+&opcion_5_1=No&
+&opcion_5_2=María conoció a Jesús por obra del Saton grial&
+&opcion_5_3=No tuvo hijos&
+&opcion_5_4=María concibió a Jesús en su seno por obra del Espíritu Santo&
+&opcion_5_5=María y Jesús eran familiares por obra del Espíritu Santo&
+&correcta_5=4&
+
+
+
+&pregunta_6=¿Estuvo María siempre al lado de Jesús?&
+&opcion_6_1=Casi siempre&
+&opcion_6_2=Si, desde que nació en Belén hasta su crucifixión&
+&opcion_6_3=Menos unos años que se fué de viaje&
+&opcion_6_4=Nunca&
+&opcion_6_5=Durante 30 años&
+&correcta_6=2&
+
+&pregunta_7=¿Quién le dió la noticia a María que sería madre?&
+&opcion_7_1=Su esposo José&
+&opcion_7_2=Su madre Ana&
+&opcion_7_3=El Ángel Gabriel&
+&opcion_7_4=El Ángel Divino&
+&opcion_7_5=El Ángel Guardián&
+&correcta_7=3&
+
+&pregunta_8=¿Como llamó María a su hijo?&
+&opcion_8_1=Jorge&
+&opcion_8_2=Joaquín&
+&opcion_8_3=Jesús&
+&opcion_8_4=Manuel&
+&opcion_8_5=Alfonso&
+&correcta_8=3&
+
+&pregunta_9=¿Qué le contestó María al Ángel Anunciador?&
+&opcion_9_1=Aquí está la esclava del señor, hágase en mí según su palabra&
+&opcion_9_2=Aquí está María su servidora, hágase en mí según su palabra&
+&opcion_9_3=Aquí está la esclava del señor, preparada para tener su hijo&
+&opcion_9_4=Aquí estoy señor, hágase en mí según su palabra&
+&opcion_9_5=Gracias señor por haberme elegido&
+&correcta_9=1&
+
+&pregunta_10=¿En que ciudad nació Jesús?&
+&opcion_10_1=Jerusalén&
+&opcion_10_2=Belén&
+&opcion_10_3=Mesopotamia&
+&opcion_10_4=Judea&
+&opcion_10_5=Nazareth&
+&correcta_10=2&
+
+
+
+&pregunta_11=¿En que lugar tuvo María a su bebé?&
+&opcion_11_1=En un Hospital&
+&opcion_11_2=En casa&
+&opcion_11_3=En un pesebre&
+&opcion_11_4=Por el camino&
+&opcion_11_5=En un tren&
+&correcta_11=3&
+
+&pregunta_12=¿Cómo mantenían al niño Jesús calentito?&
+&opcion_12_1=Con la calefacción&
+&opcion_12_2=Un caballo y un cordero calentaban con su aliento al Niño Jesús&
+&opcion_12_3=Un asno y un buey calentaban con su aliento al Niño Jesús&
+&opcion_12_4=Un camello y un buey calentaban con su aliento al Niño Jesús&
+&opcion_12_5=Una hoguera&
+&correcta_12=3&
+
+&pregunta_13=¿Qué regalos le ofrecieron los tres reyes Magos?&
+&opcion_13_1=Oro, incienso y migas&
+&opcion_13_2=Oro, centeno y mirra&
+&opcion_13_3=Plata, incienso y mirra&
+&opcion_13_4=Cobre, incienso y mirra&
+&opcion_13_5=Oro, incienso y mirra&
+&correcta_13=5&
+
+&pregunta_14=¿Por quién fueron guiados los Reyes Magos en su camino?&
+&opcion_14_1=Por una estrella&
+&opcion_14_2=Por un cometa celeste&
+&opcion_14_3=Por un avión&
+&opcion_14_4=Por un ángel&
+&opcion_14_5=Por un GPS&
+&correcta_14=1&
+
+&pregunta_15=¿En que ciudad fueron invitados a una boda María y Jesús?&
+&opcion_15_1=En Caná de Galilea&
+&opcion_15_2=En Caná de Egipto&
+&opcion_15_3=En Canarias&
+&opcion_15_4=En Caná de Mesopotamia&
+&opcion_15_5=En Nazareth&
+&correcta_15=1&
+
+
+
+&pregunta_16=¿A qué edad dejó Jesús a su madre para empezar su predicación?&
+&opcion_16_1=28&
+&opcion_16_2=34&
+&opcion_16_3=30&
+&opcion_16_4=29&
+&opcion_16_5=32&
+&correcta_16=3&
+
+&pregunta_17=¿Cuál es la oración predilecta de María?&
+&opcion_17_1=El Credo&
+&opcion_17_2=El Rosario&
+&opcion_17_3=El Padre nuestro&
+&opcion_17_4=Acordaos&
+&opcion_17_5=El Gloria al Padre&
+&correcta_17=2&
+
+&pregunta_18=¿Dónde hizo Jesús su primer milagro?&
+&opcion_18_1=En las bodas de Juan&
+&opcion_18_2=En las bodas de los primos&
+&opcion_18_3=En las bodas de Caná de Galilea&
+&opcion_18_4=En las bodas de Caná de Mesopotamia&
+&opcion_18_5=En las bodas de Canarias&
+&correcta_18=3&
+
+&pregunta_19=¿En que consistió el primer milagro de Jesús?&
+&opcion_19_1=Convirtió el vino en agua&
+&opcion_19_2=Convirtió el agua en vinagre&
+&opcion_19_3=Convirtió el agua en leche&
+&opcion_19_4=Convirtió el agua en vino&
+&opcion_19_5=Multiplicó los peces y los panes&
+&correcta_19=4&
+
+&pregunta_20=¿Qué hizo María en la última cena?&
+&opcion_20_1=Ayudó a preparar la última cena&
+&opcion_20_2=No estuvo allí&
+&opcion_20_3=Preparó grandes manjares&
+&opcion_20_4=Colocó unas cortinas nuevas&
+&opcion_20_5=Ayudó a preparar el discurso de Jesús&
+&correcta_20=1&
+
+
+
+
